@@ -1,18 +1,4 @@
-# Contributing to the Project
-
-Thank you for considering contributing to this project! Your help is much appreciated.
-
-Before you begin, please read the following guidelines.
-
-## How to Contribute
-
-1. [Open an issue](#open-an-issue)
-2. [Submit a pull request](#submit-a-pull-request)
-3. [Coding guidelines](#coding-guidelines)
-4. [Commit style](#commit-style)
-5. [Tests](#tests)
-
-## Commit Standards
+# Commit Standards
 
 According to the Conventional Commits documentation, semantic commits are a simple convention to use in commit messages. This convention defines a set of rules for creating an explicit commit history, making it easier to build automated tools.
 
