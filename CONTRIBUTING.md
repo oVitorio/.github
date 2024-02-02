@@ -86,7 +86,7 @@ Thank you for considering contributing to this project! Your help is much apprec
 
 3. **Commit Message Guide**
 
-   For more details and examples, refer to our [Commit Message Guidelines](/ISSUE_TEMPLATE/MODELS.md).
+   For more details and examples, refer to our [Commit Message Guidelines](/COMMIT_PATTERN.md).
 
 ## Coding Style and Standards
 

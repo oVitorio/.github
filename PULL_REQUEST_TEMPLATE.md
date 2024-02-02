@@ -2,8 +2,10 @@
 
 ## Type
 
-- [ ] Release - [ ] MTP (Move to Production)
-- [ ] MTS (Move to Staging) - [ ] DEV (Implement in Dev)
+- [ ] Release
+- [ ] MTP (Move to Production)
+- [ ] MTS (Move to Staging)
+- [ ] DEV (Implement in Dev)
 
 ## Description
 
@@ -11,7 +13,8 @@
 
 ## Screenshots
 
-- [ ] Yes - [ ] No
+- [ ] Yes
+- [ ] No
 
 ## How to Test
 
@@ -19,7 +22,8 @@
 
 ## Dependencies
 
-- [ ] Yes - [ ] No
+- [ ] Yes
+- [ ] No
 
 - [Dependencies](link)
 
